@@ -1,0 +1,16 @@
+{{- with .Site.RegularPages.Related . -}}
+<nav class="content">
+    <h2>
+        Related Pages
+    </h2>
+    <ul>
+        {{ range . | first 4 }}
+        <li>
+            <a href='{{ .RelPermalink }}'>
+                {{ .Title | title }}
+            </a>{{ with .Description }}: {{ . }}{{ end }}
+        </li>
+        {{ end }}
+    </ul>
+</nav>
+{{- end }}
