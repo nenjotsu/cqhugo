@@ -119,7 +119,7 @@ params:
 
   editURL:
     enable: false
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    base: "https://github.com/clonquant"
 
   theme:
     # light | dark | system
@@ -133,6 +133,13 @@ params:
     flexsearch:
       # index page by: content | summary | heading | title
       index: content
+
+  description: Automate Your Trades. Copy the Best. Share Your Edge.
+  images:
+  - /images/ogimage.png
+  title: Clonquant
+taxonomies:
+  series: series
 
 services:
   googleAnalytics:
