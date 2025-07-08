@@ -1,8 +1,13 @@
+---
+disableSidebar: false
+---
+
 # You Can Contact Us Here
 Have questions, feedback, or want to collaborate? We’d love to hear from you.
 
 - 📩 Email: clonquant@gmail.com
 - 🌐 Website: www.clonquant.com
+
 <!-- 📱 Socials: -->
 
 <!-- Twitter: @clonquant -->

@@ -83,6 +83,9 @@ menu:
     - name: "Terms of Use"
       pageRef: "/terms"
       weight: 3
+    # - name: "Join the Waitlist"
+    #   url: "https://be.clonquant.com/newsletter"
+    #   weight: 4
     # - name: "Docs"
     #   pageRef: "/docs"
     #   weight: 4

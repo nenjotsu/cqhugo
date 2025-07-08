@@ -134,6 +134,8 @@ Authenticate and Connect to WebSocket:
 
 
 <!-- Get your API key from [Account](/docs/_index.md) page in the app. -->
+<!-- Join the Waitlist, click [here](#hero) to join. -->
+<!-- Join the Waitlist, click [here]("https://be.clonquant.com/newsletter) to join. -->
 
 <!-- [Full API reference]({{< ref "/docs/_index.md" >}}) -->
 
