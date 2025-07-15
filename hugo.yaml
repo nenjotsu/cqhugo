@@ -18,9 +18,9 @@ markup:
 
 menu:
   main:
-    # - name: Docs
-    #   pageRef: /docs
-    #   weight: 1
+    - name: Blogs
+      pageRef: /blogs
+      weight: 1
     # - name: Downloads
     #   pageRef: /downloads
     #   weight: 2
@@ -96,8 +96,8 @@ menu:
 enableGitInfo: true
 enableInlineShortcodes: true
 params:
-  # page:
-  #   width: wide
+  page:
+    width: wide
   navbar:
     displayTitle: true
     displayLogo: true
@@ -144,16 +144,6 @@ taxonomies:
 services:
   googleAnalytics:
     ID: G-YN76J5X7P3
-
-# <!-- Google tag (gtag.js) -->
-# <script async src="https://www.googletagmanager.com/gtag/js?id=G-YN76J5X7P3"></script>
-# <script>
-#   window.dataLayer = window.dataLayer || [];
-#   function gtag(){dataLayer.push(arguments);}
-#   gtag('js', new Date());
-
-#   gtag('config', 'G-YN76J5X7P3');
-# </script>
 
 defaultContentLanguage: en
 languages:
