@@ -24,9 +24,9 @@ menu:
     # - name: Downloads
     #   pageRef: /downloads
     #   weight: 2
-    - name: Pricing
-      pageRef: /pricing
-      weight: 3
+    # - name: Pricing
+    #   pageRef: /pricing
+    #   weight: 3
     - name: About
       pageRef: /about
       weight: 4
