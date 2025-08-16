@@ -11,7 +11,7 @@ description: Ready to turn your TradingView strategies into powerful trading bot
 {{< index/how-it-works >}}
 {{% index/how-it-works-left title="How It Works" %}}
 You can automate, refine, and scale your trading strategies effortlessly.
-<!-- {{< youtube dQw4w9WgXcQ >}} -->
+{{< youtube O38UjseRVGA >}}
 <!-- [Docs ⇨]({{< ref "/docs/_index.md" >}}) -->
 {{% /index/how-it-works-left %}}
 {{% index/how-it-works-right title="How to Automate Your Trading in 4 Simple Steps" %}}
