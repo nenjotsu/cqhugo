@@ -2,6 +2,7 @@
 # title: Automate and Share Your Trading Strategies
 toc: false
 description: Ready to turn your TradingView strategies into powerful trading bots? ClonQuant provides a fast, flexible solution to automate your strategies across forex, stocks, futures, and cryptocurrencies, while enabling social trading to follow and replicate top-performing strategies effortlessly.
+lastChange: "2 Jan 2026"
 ---
 
 <!-- {{< index/hero title="Automate Your Trades. Copy the Best. Share Your Edge." ref="/downloads/_index.md" image="cq-landing-page.png" >}} -->

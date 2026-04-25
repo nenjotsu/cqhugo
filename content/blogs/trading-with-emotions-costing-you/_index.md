@@ -2,6 +2,7 @@
 title: Trading With Emotions? Here’s What It’s Really Costing You
 toc: true
 disableSidebar: true
+lastChange: "2 Jan 2006"
 ---
 
 ![landscape](cover.jpg "Photo by nenjo")

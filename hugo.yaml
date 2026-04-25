@@ -1,6 +1,18 @@
 # Hugo configuration file
 title: ClonQuant
 
+author:
+  name: ClonQuant
+  email: clonquant@gmail.com
+  url: https://clonquant.com
+
+site:
+  lastChange: 2024-06-01T12:00:00Z
+  author:
+    name: ClonQuant
+    email: clonquant@gmail.com
+    url: https://clonquant.com
+
 # import hextra as module
 module:
   imports:
